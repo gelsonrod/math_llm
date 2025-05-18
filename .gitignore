@@ -1,0 +1,13 @@
+# Ignora ambientes virtuais comuns
+
+algebra_env/
+.venv/
+# Ignora arquivos de cache do Python
+__pycache__/
+*.py[cod]
+# Ignora arquivos de configuração do VS Code
+.vscode/
+# Ignora dependências instaladas via pip
+*.egg-info/
+dist/
+build/
